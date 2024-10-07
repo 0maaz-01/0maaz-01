@@ -4,7 +4,7 @@
 
 🔍 My journey has equipped me with a solid foundation in Data Structures and Algorithms, allowing me to tackle complex problems and optimize performance effectively. I love exploring different algorithms and utilizing them to enhance my coding practices.
 
-💾 I have hands-on experience with MySQL and MongoDB, enabling me to design and manage databases that are both relational and document-oriented. This versatility helps me choose the right tools for every project, ensuring data integrity and efficient retrieval.
+💾 I have experience with MySQL and MongoDB, enabling me to design and manage databases that are both relational and document-oriented. This versatility helps me choose the right tools for every project, ensuring data integrity and efficient retrieval.
 
 🌐 I’m also proficient in Django, a powerful web framework that allows me to develop dynamic web applications quickly and efficiently. I enjoy leveraging Django’s features to create user-friendly interfaces while ensuring backend functionality runs smoothly.
 <!--
