@@ -10,7 +10,11 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.the_ultimate_coder._1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-maaz-rayeen-b914a4303) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@1_maaz_1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCnbXPUHjY-deGL61a5uIKGA) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-maaz-rayeen-b914a4303)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/_maaz_1/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.the_ultimate_coder._1)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@1_maaz_1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@TheUltimateCoder-g2q) 
+
 
 
 # 📊 GitHub Stats:
