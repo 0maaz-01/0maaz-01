@@ -11,6 +11,9 @@
 
 🌐 I’m also proficient in Django, a powerful web framework that allows me to develop dynamic web applications quickly and efficiently. I enjoy leveraging Django’s features to create user-friendly interfaces 
    while ensuring backend functionality runs smoothly.
+
+[![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=0maaz-01&show_icons=true&theme=radical&hide_rank=false)]
+
 <!--
 **0maaz-01/0maaz-01** is a ✨ special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
