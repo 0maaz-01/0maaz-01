@@ -5,8 +5,8 @@
 👨🏻‍💻 I'm Maaz, a passionate software developer with a strong focus on building efficient and scalable applications. With expertise in Python, I thrive in crafting clean, maintainable code and implementing robust solutions.<br><br>🔍 My journey has equipped me with a solid foundation in Data Structures and Algorithms, allowing me to tackle complex problems and optimize performance effectively.<br><br>💾 I have experience with MySQL and MongoDB, enabling me to design and manage databases that are both relational and document-oriented. This versatility helps me choose the right tools for every project,  ensuring data integrity and efficient retrieval.<br><br>🌐 I’m also proficient in Django, a powerful web framework that allows me to develop dynamic web applications quickly and efficiently. I enjoy leveraging Django’s features to create user-friendly interfaces while ensuring backend functionality runs smoothly.
 
 ## 💻 Skills:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
 
 
 ## 🌐 Socials:
