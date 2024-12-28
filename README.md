@@ -2,7 +2,7 @@
 ## Hi there 👋
 
    # 💫 About Me:
-👨🏻‍💻 I'm Maaz, a passionate software developer with a strong focus on building efficient desktop applications. With expertise in Python, I thrive in crafting clean, maintainable code and implementing robust solutions.<br><br>🔍 My journey has equipped me with a solid foundation in Data Structures and Algorithms, allowing me to tackle complex problems and optimize performance effectively.<br><br>💾 I have experience with MySQL, enabling me to design and manage databases. <br><br>
+👨🏻‍💻 I'm Maaz, a Competitive programming with a strong focus on data structures and algorithms and building efficient desktop applications. With expertise in Python, I thrive in crafting clean, maintainable code and implementing robust solutions.<br><br>🔍 My journey has equipped me with a solid foundation in Data Structures and Algorithms, allowing me to tackle complex problems and optimize performance effectively.I have solved more than 700 coding problems on various platforms.<br><br>💾 I have experience with MySQL, enabling me to design and manage databases. <br><br>
 
 ## 💻 Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
