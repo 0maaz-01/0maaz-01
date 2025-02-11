@@ -1,8 +1,17 @@
 [![](https://visitcount.itsvg.in/api?id=0maaz-01&icon=1&color=0)](https://visitcount.itsvg.in)
 ## Hi there 👋
 
-   # 💫 About Me:
-👨🏻‍💻 I'm Maaz, a Competitive Programmer with a strong focus on data structures and algorithms and building efficient desktop applications. With expertise in Python, I thrive in crafting clean, maintainable code and implementing robust solutions.<br><br>🔍 My journey has equipped me with a solid foundation in Data Structures and Algorithms, allowing me to tackle complex problems and optimize performance effectively.I have solved more than 700 coding problems on various platforms.<br><br>💾 I have experience with MySQL, enabling me to design and manage databases. <br><br>
+# 💫 About Me:
+
+👨🏻‍💻 I'm Maaz, a Competitive Programmer with a strong focus on **Data Structures and Algorithms (DSA)** and building efficient **desktop applications**. With expertise in **Python**, I thrive in crafting clean, maintainable code and implementing robust solutions.  
+
+🔍 My journey has equipped me with a solid foundation in **Data Structures and Algorithms**, allowing me to tackle complex problems and optimize performance effectively. I have solved **900+ coding problems** on various platforms, sharpening my problem-solving skills.  
+
+💾 I have experience with **MySQL and MongoDB**, enabling me to design, manage, and optimize relational and NoSQL databases for scalable applications.  
+
+🛠️ Additionally, I have a strong grasp of **System Design**, allowing me to architect efficient, scalable, and high-performance systems by leveraging best practices in distributed computing, database sharding, caching strategies, and microservices. <br><br>
+
+
 
 ## 💻 Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
