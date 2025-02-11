@@ -14,7 +14,13 @@
 
 
 ## 💻 Skills:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-ffa500?style=for-the-badge&logo=algolia&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-0078D6?style=for-the-badge&logo=microsoft&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+
+
+
+
 
 
 
