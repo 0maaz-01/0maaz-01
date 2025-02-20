@@ -14,17 +14,11 @@
 
 
 ## 💻 Skills:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-ffa500?style=for-the-badge&logo=algolia&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-0078D6?style=for-the-badge&logo=microsoft&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-
-
-
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/dsa.jpg" width="50" height="50"> <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/System%20Design.png" width="50" height="50"> ![My Skills](https://skillicons.dev/icons?i=js,html,css)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,figma)](https://skillicons.dev) <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Native.png" width="50" height="50"> <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/React.png" width="50" height="50">[![My Skills](https://skillicons.dev/icons?i=express,mongodb,nextjs,fastapi,vercel,git,github,anaconda,opencv,vscode)](https://skillicons.dev)
 
 ## 🌐 Socials:
+[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail,instagram)](https://skillicons.dev)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-maaz-rayeen-b914a4303)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/_maaz_1/)
