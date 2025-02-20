@@ -3,13 +3,9 @@
 
 # 💫 About Me:
 
-👨🏻‍💻 I'm Maaz, a Competitive Programmer with a strong focus on **Data Structures and Algorithms (DSA)** and building efficient **desktop applications**. With expertise in **Python**, I thrive in crafting clean, maintainable code and implementing robust solutions.  
+🚀 Software Developer | Full-Stack Engineer | Problem Solver | Mobile App Developer
 
-🔍 My journey has equipped me with a solid foundation in **Data Structures and Algorithms**, allowing me to tackle complex problems and optimize performance effectively. I have solved **900+ coding problems** on various platforms, sharpening my problem-solving skills.  
-
-💾 I have experience with **MySQL and MongoDB**, enabling me to design, manage, and optimize relational and NoSQL databases for scalable applications.  
-
-🛠️ Additionally, I have a strong grasp of **System Design**, allowing me to architect efficient, scalable, and high-performance systems by leveraging best practices in distributed computing, database sharding, caching strategies, and microservices. <br><br>
+I'm Mohd Maaz, a passionate software developer with a strong foundation in full-stack development, system design, data structures & algorithms (DSA) and mobile app development. I enjoy solving complex problems and continuously learning new technologies to build efficient and well-structured applications.
 
 
 
@@ -19,7 +15,6 @@
 
 
 ## 🌐 Socials:
-
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <a href="https://leetcode.com/u/_maaz_1/">
@@ -43,7 +38,7 @@
   <a href="https://www.youtube.com/@TheUltimateCoder-g2q">
     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/New%20folder%20(2)/Youtube.png" width="50" height="50">
   </a>
-  <a href="https://www.youtube.com/@TheUltimateCoder-g2q">
+  <a href="https://www.threads.net/@_.maaz._1">
     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/New%20folder%20(2)/Thread.png" width="50" height="50">
   </a>
   <a href="https://www.youtube.com/@TheUltimateCoder-g2q">
