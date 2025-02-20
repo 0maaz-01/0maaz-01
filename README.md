@@ -17,6 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/dsa.jpg" width="50" height="50"> <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/System%20Design.png" width="50" height="50"> ![My Skills](https://skillicons.dev/icons?i=js,html,css)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,figma)](https://skillicons.dev) <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Native.png" width="50" height="50"> <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/React.png" width="50" height="50">[![My Skills](https://skillicons.dev/icons?i=express,mongodb,nextjs,fastapi,vercel,git,github,anaconda,opencv,vscode)](https://skillicons.dev)
 
+
 ## 🌐 Socials:
 
 
@@ -33,16 +34,22 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50">
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://www.instagram.com/_.maaz._1?igsh=eG5zeXN1NDhoc25y">
     <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50">
   </a>
+  <a href="https://x.com/@1_maaz_1">
+    <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/New%20folder%20(2)/X.png" width="50" height="50">
+  </a>
+  <a href="https://www.youtube.com/@TheUltimateCoder-g2q">
+    <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/New%20folder%20(2)/Youtube.png" width="50" height="50">
+  </a>
+  <a href="https://www.youtube.com/@TheUltimateCoder-g2q">
+    <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/New%20folder%20(2)/Thread.png" width="50" height="50">
+  </a>
+  <a href="https://www.youtube.com/@TheUltimateCoder-g2q">
+    <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/New%20folder%20(2)/Facebook.png" width="50" height="50">
+  </a>
 </div>
-
-
-
-[![LinkedIn](https://github.com/0maaz01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/New%20folder%20(2)/LeetCode.png)](https://linkedin.com/in/mohammed-maaz-rayeen-b914a4303)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/_maaz_1/)
- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@1_maaz_1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@TheUltimateCoder-g2q) 
 
 
 
