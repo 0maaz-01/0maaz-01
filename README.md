@@ -27,8 +27,8 @@ I'm Mohd Maaz, a passionate software developer with a strong foundation in full-
 [![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)
 
 
-
-
+ ## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0maaz-01&layout=compact&theme=radical)
 
 ## 🌐 Socials:
 
@@ -63,19 +63,10 @@ I'm Mohd Maaz, a passionate software developer with a strong foundation in full-
 </div>
 
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0maaz-01&layout=compact&theme=radical)
-
-
 
 
 # 📊 GitHub Stats:
-![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=0maaz-01&show_icons=true&theme=radical)
+![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=0maaz-01&show_icons=true&theme=radical) ![](https://github-readme-streak-stats.herokuapp.com/?user=0maaz-01&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=0maaz-01&theme=dark&hide_border=false)<br/>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=0maaz-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
+### 🔝 Top Contributed Repo                                                                                               
+![](https://github-contributor-stats.vercel.app/api?username=0maaz-01&limit=5&theme=dark&combine_all_yearly_contributions=true) 
