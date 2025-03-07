@@ -1,8 +1,11 @@
-## Hi there 👋
+<img src="https://github.com/1maaz01/Alaikoo_PDF_Reader_and_Editor./blob/main/localM7mKlH7JxCl5h3UQ_wRVh-ezgif.com-video-to-gif-converter.gif" width="1080" height="720">
 
-I'm Mohd Maaz, a passionate software developer with a strong foundation in full-stack development, system design, data structures & algorithms (DSA) and mobile app development. I enjoy solving complex problems and continuously learning new technologies to build efficient and well-structured applications.
+  # Hi there 👋
+### I'm Mohd Maaz, a passionate software developer with a strong foundation in full-stack development, system design, data structures & algorithms (DSA) and mobile app development. I enjoy solving complex problems and continuously learning new technologies to build efficient and well-structured applications.
 
-
+ ## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0maaz-01&layout=compact&theme=radical)
+                            <img src="https://github.com/1maaz01/Alaikoo_PDF_Reader_and_Editor./blob/main/Githubfiles-ezgif.com-video-to-gif-converter.gif" width="400" height="200">
 
 
 
@@ -31,8 +34,7 @@ I'm Mohd Maaz, a passionate software developer with a strong foundation in full-
 
 
 
- ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0maaz-01&layout=compact&theme=radical)
+
 
 ## 🌐 Socials:
 
@@ -74,3 +76,6 @@ I'm Mohd Maaz, a passionate software developer with a strong foundation in full-
 
 ### 🔝 Top Contributed Repo                                                                                               
 ![](https://github-contributor-stats.vercel.app/api?username=0maaz-01&limit=5&theme=dark&combine_all_yearly_contributions=true) 
+
+
+
