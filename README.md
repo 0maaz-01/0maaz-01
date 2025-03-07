@@ -64,7 +64,7 @@ I'm Mohd Maaz, a passionate software developer with a strong foundation in full-
 
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0maaz-01&layout=compact&theme=radical)
 
 
 
