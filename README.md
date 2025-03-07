@@ -15,6 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Native.png" width="50" height="50"> <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/React.png" width="50" height="50">
 [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![Framer](https://skillicons.dev/icons?i=framer)](https://skillicons.dev)
 [![PyCharm](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
@@ -66,7 +67,7 @@
   <a href="https://www.youtube.com/@TheUltimateCoder-g2q">
     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/New%20folder%20(2)/Facebook.png" width="50" height="50">
   </a>
-[Email me](mailto:your-email@gmail.com?subject=Inquiry%20About%20Project&body=Hello%20there%2C%20I%20have%20a%20question%20about%20your%20project.)
+
 
   
 </div>
