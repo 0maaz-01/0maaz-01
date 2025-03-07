@@ -1,17 +1,33 @@
-[![](https://visitcount.itsvg.in/api?id=0maaz-01&icon=1&color=0)](https://visitcount.itsvg.in)
 ## Hi there 👋
-
-# 💫 About Me:
-
-🚀 Software Developer | Full-Stack Engineer | Problem Solver | Mobile App Developer
 
 I'm Mohd Maaz, a passionate software developer with a strong foundation in full-stack development, system design, data structures & algorithms (DSA) and mobile app development. I enjoy solving complex problems and continuously learning new technologies to build efficient and well-structured applications.
 
 
 
-## 💻 Skills:
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/dsa.jpg" width="50" height="50"> <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/System%20Design.png" width="50" height="50"> ![My Skills](https://skillicons.dev/icons?i=js,html,css)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,figma)](https://skillicons.dev) <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Native.png" width="50" height="50"> <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/React.png" width="50" height="50">[![My Skills](https://skillicons.dev/icons?i=express,mongodb,nextjs,fastapi,vercel,git,github,anaconda,opencv,vscode)](https://skillicons.dev)
+
+
+## Tech Stack :
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/dsa.jpg" width="50" height="50">  [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
+![My Skills](https://skillicons.dev/icons?i=html) ![My Skills](https://skillicons.dev/icons?i=css)[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Native.png" width="50" height="50"> <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/React.png" width="50" height="50">
+[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
+[![Three.js](https://skillicons.dev/icons?i=threejs)](https://skillicons.dev)
+[![WebStorm](https://skillicons.dev/icons?i=webstorm)](https://skillicons.dev)
+[![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)
+
+
+
 
 
 ## 🌐 Socials:
@@ -47,6 +63,11 @@ I'm Mohd Maaz, a passionate software developer with a strong foundation in full-
 </div>
 
 
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+
+
 
 # 📊 GitHub Stats:
 ![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=0maaz-01&show_icons=true&theme=radical)
@@ -58,22 +79,3 @@ I'm Mohd Maaz, a passionate software developer with a strong foundation in full-
 
 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-<!--
-**0maaz-01/0maaz-01** is a ✨ special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
