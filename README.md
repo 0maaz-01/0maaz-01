@@ -1,14 +1,14 @@
-<img src="https://github.com/1maaz01/Alaikoo_PDF_Reader_and_Editor./blob/main/localM7mKlH7JxCl5h3UQ_wRVh-ezgif.com-video-to-gif-converter.gif" width="1080" height="720">
+<img src="https://github.com/1maaz01/Alaikoo_PDF_Reader_and_Editor./blob/main/localM7mKlH7JxCl5h3UQ_wRVh-ezgif.com-video-to-gif-converter.gif" alt="Image" style="max-width: 100%; height: auto;">
 
+---
   # Hi there 👋
 ### I'm Mohd Maaz, a passionate software developer with a strong foundation in full-stack development, system design, data structures & algorithms (DSA) and mobile app development. I enjoy solving complex problems and continuously learning new technologies to build efficient and well-structured applications.
 
- ## 📊 Most Used Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0maaz-01&layout=compact&theme=radical)
-                            <img src="https://github.com/1maaz01/Alaikoo_PDF_Reader_and_Editor./blob/main/Githubfiles-ezgif.com-video-to-gif-converter.gif" width="400" height="200">
+                            <img src="https://github.com/1maaz01/Alaikoo_PDF_Reader_and_Editor./blob/main/Githubfiles-ezgif.com-video-to-gif-converter.gif" alt="Image" style="max-width: 50%; height: auto;">
 
-
-
+---
 ## Tech Stack :
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/dsa.jpg" width="50" height="50">  [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
 ![My Skills](https://skillicons.dev/icons?i=html) ![My Skills](https://skillicons.dev/icons?i=css)[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
@@ -35,7 +35,7 @@
 
 
 
-
+---
 ## 🌐 Socials:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -45,12 +45,12 @@
   <a href="https://codeforces.com/profile/_.maaz._1">
     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/New%20folder%20(2)/CodeForces.png" width="50" height="50">
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/mohammed-maaz-rayeen-b914a4303/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50">
-  </a>
-  <a href="https://skillicons.dev">
+  </a> 
+  <a href="mailto:theultimatecoder@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50">
-  </a>
+  </a> 
   <a href="https://www.instagram.com/_.maaz._1?igsh=eG5zeXN1NDhoc25y">
     <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50">
   </a>
@@ -70,10 +70,11 @@
 
 
 
-
+---
 # 📊 GitHub Stats:
 ![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=0maaz-01&show_icons=true&theme=radical) ![](https://github-readme-streak-stats.herokuapp.com/?user=0maaz-01&theme=dark&hide_border=false)<br/>
 
+---
 ### 🔝 Top Contributed Repo                                                                                               
 ![](https://github-contributor-stats.vercel.app/api?username=0maaz-01&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 
