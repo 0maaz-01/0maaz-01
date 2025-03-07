@@ -12,6 +12,12 @@ I'm Mohd Maaz, a passionate software developer with a strong foundation in full-
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Native.png" width="50" height="50"> <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/React.png" width="50" height="50">
 [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![PyCharm](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
+[![Three.js](https://skillicons.dev/icons?i=threejs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
@@ -20,11 +26,9 @@ I'm Mohd Maaz, a passionate software developer with a strong foundation in full-
 [![My Skills](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
-[![Three.js](https://skillicons.dev/icons?i=threejs)](https://skillicons.dev)
 [![WebStorm](https://skillicons.dev/icons?i=webstorm)](https://skillicons.dev)
 [![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)
+
 
 
  ## 📊 Most Used Languages
