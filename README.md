@@ -66,6 +66,9 @@
   <a href="https://www.youtube.com/@TheUltimateCoder-g2q">
     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/New%20folder%20(2)/Facebook.png" width="50" height="50">
   </a>
+[Email me](mailto:your-email@gmail.com?subject=Inquiry%20About%20Project&body=Hello%20there%2C%20I%20have%20a%20question%20about%20your%20project.)
+
+  
 </div>
 
 
