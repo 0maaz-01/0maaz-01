@@ -11,7 +11,8 @@
 ---
 ## Tech Stack :
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/dsa.jpg" width="50" height="50">  [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
-![My Skills](https://skillicons.dev/icons?i=html) ![My Skills](https://skillicons.dev/icons?i=css)[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html) ![My Skills](https://skillicons.dev/icons?i=css)[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Native.png" width="50" height="50"> <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/React.png" width="50" height="50">
 [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
