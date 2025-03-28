@@ -76,7 +76,7 @@
 
 ---
 # 📊 GitHub Stats:
-![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=0maaz-01&show_icons=true&theme=radical) ![](https://github-readme-streak-stats.herokuapp.com/?user=0maaz-01&theme=dark&hide_border=false)<br/>
+![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=0maaz-01&show_icons=true&theme=radical) 
 
 ---
 ### 🔝 Top Contributed Repo                                                                                               
