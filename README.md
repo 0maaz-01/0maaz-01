@@ -1,4 +1,4 @@
-<img src="https://github.com/0maaz-01/Image/blob/main/FullStack%20web%20developer%20(2).png" alt="Image" style="max-width: 100%; height: auto;">
+<img src="https://github.com/1maaz01/Alaikoo_PDF_Reader_and_Editor./blob/main/localM7mKlH7JxCl5h3UQ_wRVh-ezgif.com-video-to-gif-converter.gif" alt="Image" style="max-width: 100%; height: auto;">
 
 ---
   # Hi there 👋
@@ -22,8 +22,6 @@ I believe in doing everything possible today and making things happen faster.
 Python | HTML | CSS | JavaScript | Tailwind CSS | React JS | Node JS | Express JS | MongoDB | MySQL | Socket.io | Three JS | Docker | Kubernetes | Postman | FastAPI | GraphQL | Git | GitHub | Vercel | Framer | Figma | VS Code | WebStorm | PyCharm | Anaconda | OpenCV 
 
 I'm flexible in working with new tools, frameworks, and languages, and I always aim to use the tech stack that best fits the project. 🔄
-
-<img src="https://github.com/1maaz01/Alaikoo_PDF_Reader_and_Editor./blob/main/localM7mKlH7JxCl5h3UQ_wRVh-ezgif.com-video-to-gif-converter.gif" alt="Image" style="max-width: 100%; height: auto;">
 
 ---
 ## Tech Stack :
