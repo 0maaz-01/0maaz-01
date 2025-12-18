@@ -1,26 +1,4 @@
 
-## Tech Stack :
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/dsa.jpg" width="50" height="50">  [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
-![My Skills](https://skillicons.dev/icons?i=html) ![My Skills](https://skillicons.dev/icons?i=css)[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/Native.png" width="50" height="50"> <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/React.png" width="50" height="50">
-[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![PyCharm](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
-[![Three.js](https://skillicons.dev/icons?i=threejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=anaconda)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-[![WebStorm](https://skillicons.dev/icons?i=webstorm)](https://skillicons.dev)
-[![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)
 
 
 <img src="https://github.com/1maaz01/Alaikoo_PDF_Reader_and_Editor./blob/main/localM7mKlH7JxCl5h3UQ_wRVh-ezgif.com-video-to-gif-converter.gif" alt="Image" style="max-width: 100%; height: auto;">
