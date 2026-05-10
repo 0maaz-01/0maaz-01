@@ -83,9 +83,6 @@ I'm flexible in working with new tools, frameworks, and languages, and I always 
   <a href="https://www.youtube.com/@TheUltimateCoder-g2q">
     <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/New%20folder%20(2)/Facebook.png" width="50" height="50">
   </a>
-
-
-  
 </div>
 
 
