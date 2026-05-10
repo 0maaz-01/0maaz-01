@@ -54,42 +54,17 @@ I'm flexible in working with new tools, frameworks, and languages, and I always 
 
 ---
 ## 🌐 Socials:
-<a href="https://leetcode.com/u/_maaz_1/">
-  <img src="https://raw.githubusercontent.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor/main/Images/New%20folder%20(2)/LeetCode.png" width="50" height="50">
-</a>
-
-<a href="https://codeforces.com/profile/_.maaz._1">
-  <img src="https://raw.githubusercontent.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor/main/Images/New%20folder%20(2)/CodeForces.png" width="50" height="50">
-</a>
-
-<a href="https://www.linkedin.com/in/mohammed-maaz-rayeen-b914a4303/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50">
-</a>
-
-<a href="mailto:theultimatecoder@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50">
-</a>
-
-<a href="https://www.instagram.com/_.maaz._1?igsh=eG5zeXN1NDhoc25y">
-  <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50">
-</a>
-
-<a href="https://x.com/@1_maaz_1">
-  <img src="https://raw.githubusercontent.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor/main/Images/New%20folder%20(2)/X.png" width="50" height="50">
-</a>
-
-<a href="https://www.youtube.com/@TheUltimateCoder-g2q">
-  <img src="https://raw.githubusercontent.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor/main/Images/New%20folder%20(2)/Youtube.png" width="50" height="50">
-</a>
-
-<a href="https://www.threads.net/@_.maaz._1">
-  <img src="https://raw.githubusercontent.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor/main/Images/New%20folder%20(2)/Thread.png" width="50" height="50">
-</a>
-
-<a href="https://facebook.com/">
-  <img src="https://raw.githubusercontent.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor/main/Images/New%20folder%20(2)/Facebook.png" width="50" height="50">
-</a>
-
+<p>
+    <a href="https://leetcode.com/u/_maaz_1/"><img src="https://raw.githubusercontent.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor/main/Images/New%20folder%20(2)/LeetCode.png" width="50" height="50"></a>
+    <a href="https://codeforces.com/profile/_.maaz._1"><img src="https://raw.githubusercontent.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor/main/Images/New%20folder%20(2)/CodeForces.png" width="50" height="50"></a>
+    <a href="https://www.linkedin.com/in/mohammed-maaz-rayeen-b914a4303/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"></a>
+    <a href="mailto:theultimatecoder@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" height="50"></a>
+    <a href="https://www.instagram.com/_.maaz._1?igsh=eG5zeXN1NDhoc25y"><img src="https://skillicons.dev/icons?i=instagram" width="50" height="50"></a>
+    <a href="https://x.com/@1_maaz_1"><img src="https://raw.githubusercontent.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor/main/Images/New%20folder%20(2)/X.png" width="50" height="50"></a>
+    <a href="https://www.youtube.com/@TheUltimateCoder-g2q"><img src="https://raw.githubusercontent.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor/main/Images/New%20folder%20(2)/Youtube.png" width="50" height="50"></a>
+    <a href="https://www.threads.net/@_.maaz._1"><img src="https://raw.githubusercontent.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor/main/Images/New%20folder%20(2)/Thread.png" width="50" height="50"></a>
+    <a href="https://facebook.com/"><img src="https://raw.githubusercontent.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor/main/Images/New%20folder%20(2)/Facebook.png" width="50" height="50"></a>
+</p>
 
 
 
